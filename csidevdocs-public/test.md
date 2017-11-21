@@ -10,7 +10,7 @@ ms.topic: solution
 ms.prod:
 ms.service: active-directory
 ms.technology: techgroup-identity
-tt
+
 # optional metadata
 
 #ROBOTS:
