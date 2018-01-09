@@ -1,6 +1,6 @@
 ---
-ms.author: seshenoy
-author: seshenoy
+ms.author: jamarw
+author: jamarw
 ---
 # Welcome to csidevdocs-public!
 test
