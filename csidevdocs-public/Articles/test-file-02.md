@@ -1,6 +1,6 @@
 ---
 author: daveba
-ms.author: seshenoy
+ms.author: daveba
 ---
 
 Words
