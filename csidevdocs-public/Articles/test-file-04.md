@@ -1,6 +1,6 @@
 ---
-author: v-tinaliu
-ms.author: TinaliuGirl
+author: TinaLiuGirl
+ms.author: v-kaliu
 ---
 
 Words
