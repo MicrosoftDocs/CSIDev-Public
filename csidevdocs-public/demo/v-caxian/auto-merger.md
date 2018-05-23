@@ -39,7 +39,7 @@ Sogup
 2. Open VS Code and click the square icon on the left panel to open the Extensions menu.
 3. Click the three dots for "More" and select "Install from VSIX..."
 4. Navigate to the extension and select it.
-5. VS Code will install the extension and prompt you to restart .
+5. VS Code will install the extension and prompt you to restart.
 
 ## Prerequisites and assumptions
 
