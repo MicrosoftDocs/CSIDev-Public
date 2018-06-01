@@ -32,7 +32,7 @@ VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help 
 
 ## Installation steps
 
-1. Copy the installation folder from ---.ss
+1. Copy the installation folder from ---.s
    
 Sogup 
 1. Save ops-platform-extension-poc-0.0.1.vsix to your machine.
