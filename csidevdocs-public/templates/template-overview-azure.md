@@ -25,7 +25,7 @@ ms.topic: overview
 # H1 article title beginning with "What is..."
 Introductory paragraph
 
-<Recommended conceptual art to help people understand what this product, technology or service is and does.>
+&lt;Recommended conceptual art to help people understand what this product, technology or service is and does.&gt;
 
 ## H2 sub-heading
 Include at least two H2s (not counting next steps section)

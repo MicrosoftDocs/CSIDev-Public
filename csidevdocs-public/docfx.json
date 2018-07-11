@@ -36,6 +36,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "csidevdocs-public"
+    "dest": "csidevdocs-public",
+    "markdownEngineName": "markdig"
   }
 }
