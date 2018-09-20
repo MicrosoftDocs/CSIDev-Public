@@ -4,11 +4,11 @@ ms.date: 02/28/2018
 ms.prod: visual-studio-dev15
 ms.technology: vs-ide-test
 ms.topic: conceptual
-ms.author: v-kaliu
+ms.author: v-shsh11
 manager: douge
 ms.workload:
   - "multiple"
-author: TinaLiuGirl
+author: sharanya-rao
 ---
 # Configure unit tests by using a *.runsettings* file
 
