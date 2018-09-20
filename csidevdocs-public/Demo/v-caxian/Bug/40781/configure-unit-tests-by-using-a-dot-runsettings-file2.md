@@ -10,7 +10,7 @@ ms.workload:
   - "multiple"
 author: sharanya-rao
 ---
-# Configure unit tests by using a *.runsettings* file
+# Configure unit tests by using a *.runsettings* file1
 
 Unit tests in Visual Studio can be configured by using a *.runsettings* file. For example, you can change the .NET Framework version on which the tests are run, the directory for the test results, or the data that's collected during a test run.
 
