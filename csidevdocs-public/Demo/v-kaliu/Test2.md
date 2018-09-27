@@ -1,18 +1,20 @@
 ---
 title: Azure Resource Manager template structure and syntax | Microsoft Docs
 description: Describes the structure and properties of Azure Resource Manager templates using declarative JSON syntax.
-services: azure-resource-manager
+services: "services"
 documentationcenter: na
-author: "v-caxian"
+author: "v-caxian111"
+product: 'product'
 
 ms.assetid: 19694cb4-d9ed-499a-a2cc-bcfc4922d7f5
-ms.service: "azure-'re"sour"ce'-manager"
+ms.service: "azure-'re"sour"ce'-ms.service"
+ms.prod: "azure-'re"sour"ce'-ms.prod"
 ms.devlang: na
 ms.topic: conceptual
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.date: 05/30/2018
-ms.author: 'v-caxian'
+ms.author: 'ms.v-caxian'
 
 ---
 # Understand the structure and syntax of Azure Resource Manager Templates
