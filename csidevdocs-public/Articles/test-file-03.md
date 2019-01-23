@@ -1,6 +1,6 @@
 ---
 author: v-caxian
-ms.author: seshenoy
+ms.author: v-caxian
 ---
 
 Words
