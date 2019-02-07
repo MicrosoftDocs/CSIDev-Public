@@ -32,7 +32,10 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/csidevdocs-public/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/CSIDev-Public",
+      "feedback_product_url": "https://docs.microsoft.com/contribute/validation-reference/"  
     },
     "fileMetadata": {},
     "template": [],
