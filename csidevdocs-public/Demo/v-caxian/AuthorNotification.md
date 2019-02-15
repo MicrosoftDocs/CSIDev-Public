@@ -5,7 +5,7 @@ title: "VS Code Authoring Extension"
 #description:
 #keywords:
 author: PRMerger16
-ms.author: v-kaliu
+ms.author: PRMerger16
 manager: arthurya
 ms.date:  02/15/2019
 ms.topic: article
