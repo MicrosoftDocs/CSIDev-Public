@@ -1,6 +1,6 @@
 ---
-author: jamarw
-ms.author: jamarw
+author: bharney-msft
+ms.author: bharney-msft
 ---
 
-Words
+Werd
