@@ -4,8 +4,8 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: v-caxian
-ms.author: v-caxian
+author: adunndevster
+ms.author: adunndevster
 manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
