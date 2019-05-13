@@ -48,4 +48,5 @@ additional linerr
 To effectively use the OPS Authoring extension, you must11:
 - Clone your entire repo to your local machine and keep it in sync. Functions such as link and image insertion are not reliable if the repo is out of sync.
 - For accurate content preview, you need to update your VS Code settings.json file, as described under **Preview Content** below.
-my updated file contentsmy updated file contentsmy updated file contents, more for auto testing...
+my updated file contentsmy updated file contentsmy updated file contents
+ - 1dc68944-dafd-4c78-aa49-4c256a4b43c5
