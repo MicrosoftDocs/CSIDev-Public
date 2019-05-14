@@ -39,6 +39,10 @@
       "author": "bharney"
     },
     "fileMetadata": {
+      "author": {
+        "Articles/**.md": "bharney",
+        "Demo/**.md": "adunndevster"
+      },
       "feedback_system": {
         "azure-data-studio/**/*.md": "GitHub",
         "linux/**/*.md": "GitHub",
