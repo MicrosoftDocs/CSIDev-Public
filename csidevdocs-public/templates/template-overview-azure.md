@@ -1,12 +1,10 @@
 ---
-
----
 # Mandatory fields. See more on aka.ms/skyeye/meta.
 title: Intent and product brand in a unique string of 43-59 chars including spaces - do not include site identifier (it is auto-generated.)
 description: 115-145 characters including spaces. Edit the intro para describing article intent to fit here. This abstract displays in the search result.
 services: service-name-with-dashes-AZURE-ONLY
 keywords: Don’t add or edit keywords without consulting your SEO champ.
-author: github-alias
+author: bharney-msft
 ms.author: MSFT-alias-person-or-DL
 ms.date: 12/05/2017
 ms.topic: overview
