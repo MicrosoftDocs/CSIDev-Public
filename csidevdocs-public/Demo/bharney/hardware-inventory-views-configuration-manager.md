@@ -17,7 +17,7 @@ manager: dougeby
 
 The hardware inventory views contain information about the computer hardware scanned on Configuration Manager client computers. Many hardware inventory views are created in Configuration Manager by default, and many more can be enabled or creating classes by using the hardware inventory classes dialog box, accessible from client settings. Because of this, it is likely that Configuration Manager sites collect different hardware inventory resulting in different hardware inventory views.
 
-For more information about extending Configuration Manager hardware inventory, see [How to extend hardware inventory in Configuration Manager](/sccm/core/clients/manage/inventory/extend-hardware-inventory).
+For more information about extending Configuration Manager hardware inventory, see [How to extend hardware inventory in Configuration Manager](/sccm/core/clients/manage/inventory/extend-hardware-inventory)..
 
 ## Hardware inventory schema views
 
