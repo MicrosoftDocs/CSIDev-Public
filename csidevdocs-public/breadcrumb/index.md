@@ -5,4 +5,4 @@ services: active-directory-b2c
 author:
 ---
 
-# Test
+# Test.
