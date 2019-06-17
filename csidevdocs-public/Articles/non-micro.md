@@ -1,6 +1,5 @@
 ---
 author: ramajw
-ms.author: ramajw
 ---
 # H1
 
