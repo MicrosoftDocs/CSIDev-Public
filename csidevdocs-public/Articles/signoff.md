@@ -22,7 +22,7 @@ This article discusses how to configure a client application and web API in orde
 > [!NOTE]
 > **Web API chains (On-Behalf-Of) is not supported by Azure AD B2C.**
 >
-> Many architectures include a web API that needs to call another downstream web API, both secured by Azure AD B2C. This scenario is common in native clients that have a web API back end, which in turn calls a Microsoft online service such as the Azure AD Graph API.
+> Many architectures include a web API that needs to call another downstream web API, both secured by Azure AD B2C. This 
 >
 > This chained web API scenario can be supported by using the OAuth 2.0 JWT Bearer Credential grant, otherwise known as the On-Behalf-Of flow. However, the On-Behalf-Of flow is not currently implemented in Azure AD B2C.
 
