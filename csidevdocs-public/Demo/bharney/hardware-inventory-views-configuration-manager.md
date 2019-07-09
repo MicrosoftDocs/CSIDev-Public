@@ -17,7 +17,7 @@ manager: dougeby
 
 The hardware inventory views contain information about the computer hardware scanned on Configuration Manager client computers. Many hardware inventory views are created in Configuration Manager by default, and many more can be enabled or creating classes by using the hardware inventory classes dialog box, accessible from client settings. Because of this, it is likely that Configuration Manager sites collect different hardware inventory resulting in different hardware inventory views.
 
-For more information about extending Configuration Manager hardware inventory, see [How to extend hardware inventory in Configuration Manager](/sccm/core/clients/manage/inventory/extend-hardware-inventory).
+For more information about extending Configuration Manager hardware inventory, see [How to extend hardware inventory in Configuration Manager](/sccm/core/clients/manage/inventory/extend-hardware-inventory)..
 
 ## Hardware inventory schema views
 
@@ -47,7 +47,7 @@ Most of the hardware inventory views start with the **v_GS_** view name followed
 ### v_InventoryClass
 
 Lists the WMI classes that are collected by Configuration Manager hardware inventory by class ID. The view also shows the WMI namespace, the class name and the name of the class as it will be displayed in Resource Explorer.
-This view can be joined to other views by using the **ClassID** column.
+This view can be joined to other views by using the **ClassID** column..
 
 ### v_InventoryClassProperty
 
