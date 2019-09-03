@@ -1,6 +1,6 @@
 ---
-author: adunndevster
-ms.author: adunndevster
+author: adunntest
+ms.author: adunntest
 ---
 # Test for no author set in Markdown file, but author is set in fileMetadata
 
