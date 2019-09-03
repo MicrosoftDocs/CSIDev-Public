@@ -1,6 +1,6 @@
 ---
-author: fakeacct
-ms.author: fakeacct
+author: bharney
+ms.author: bharney
 ---
 
 Words
