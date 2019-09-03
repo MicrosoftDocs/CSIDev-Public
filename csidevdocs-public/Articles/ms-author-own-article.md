@@ -1,6 +1,6 @@
 ---
-author: adunntest
-ms.author: adunntest
+author: fakeacct
+ms.author: fakeacct
 ---
 
 Words
