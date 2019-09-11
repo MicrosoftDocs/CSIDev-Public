@@ -4,8 +4,8 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: adunndevster
-ms.author: adunndevster
+author: lamebrain
+ms.author: lamebrain
 manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
