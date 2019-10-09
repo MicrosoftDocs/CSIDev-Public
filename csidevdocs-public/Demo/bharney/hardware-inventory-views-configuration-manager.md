@@ -8,7 +8,7 @@ ms.technology: configmgr-other #app client compliance hybrid osd protect sum
 ms.topic: conceptual
 ms.collection: M365-identity-device-management
 ms.assetid: 8726c91b-de9d-4df0-9eb8-f9f62e109152
-author: bharney-msft
+author: bharney0
 ms.author: aaroncz
 manager: dougeby
 ---
