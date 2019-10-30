@@ -42,6 +42,20 @@
         "Articles/**.md": "bharney-msft",
         "Demo/**.md": "adunndevster"
       },
+      "ms.technology": {
+        "Demo/**.md": "cpp-azure",
+        "code-quality/**.md": "cpp-cli"
+      },
+      "ms.service": {
+        "Demo/**.md": "azure"
+      },
+      "ms.subservice": {
+        "Demo/**.md": "azure-active-directory"
+      },
+      "ms.prod": {
+        "Demo/**.md": "configuration-manager",
+        "code-quality/**.md": "cpp-cli"
+      },
       "feedback_system": {
         "azure-data-studio/**/*.md": "GitHub",
         "linux/**/*.md": "GitHub",
