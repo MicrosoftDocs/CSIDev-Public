@@ -13,3 +13,4 @@ ms.author: mlearned
 # Kubernetes core concepts for Azure Kubernetes Service (AKS)
 
 As application development moves towards a container-based approach, the need to orchestrate and manage resources is important. Kubernetes is the leading platform that provides the ability to provide reliable scheduling of fault-tolerant application workloads. Azure Kubernetes Service (AKS) is a managed Kubernetes offering that further simplifies container-based application deployment and management.
+nice
