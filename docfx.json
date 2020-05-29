@@ -1,0 +1,59 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/CSIDevDocs-PPE/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "feedback_system": "None",
+      "author": "bharney-msft"
+    },
+    "fileMetadata": {
+      "author": {
+        "bharney/**.md": "bharney-msft",
+        "adunndevster/**.md": "adunndevster",
+        "articles/topic1/subtopic/*.md": "lamebrain"
+      },
+      "ms.technology": {
+            "CSIDevDocs/adunndevster/**.md": "vs-adunndevster",
+            "CSIDevDocs/bharney/**.md": "vs-bharney",
+            "CSIDevDocs/docs/**/**.md": "docsdefault"
+        }
+    },
+    "template": [],
+    "dest": "CSIDevDocs-PPE",
+    "markdownEngineName": "markdig"
+  }
+}
