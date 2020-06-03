@@ -28,7 +28,7 @@ This article discusses how to configure a client application and web API in orde
 
 ## Register a web API and publish permissions
 
-Before requesting an access token, you first need to register a web API and publish permissions (scopes) that can be granted to the client application.
+Before  an access token, you first need to register a web API and publish permissions (scopes) that can be granted to the client application.
 
 ### Register a web API
 
