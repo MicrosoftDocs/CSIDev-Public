@@ -19,6 +19,7 @@ The hardware inventory views contain information about the computer hardware sca
 
 For more information about extending Configuration Manager hardware inventory, see [How to extend hardware inventory in Configuration Manager](/sccm/core/clients/manage/inventory/extend-hardware-inventory).
 
+
 ## Hardware inventory schema views
 
 The hardware inventory schema is important to understand when creating queries for Configuration Manager reports. Most of the client data within Configuration Manager is contained in one of the two hardware inventory schema views: **v_GroupMap** and **v_GroupAttributeMap**. The **v_GroupMap** view contains a list of all the hardware inventory groups and the associated view for each of the groups. The **v_GroupAttributeMap** view contains all of the attributes that are inventoried for each of the groups. Both views can be joined together by using the **GroupID** column and joined to the **v_ResourceMap** discovery schema view by using the **ResourceType** column.
