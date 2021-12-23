@@ -44,4 +44,4 @@ VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help 
 To effectively use the OPS Authoring extension, you must:
 - Clone your entire repo to your local machine and keep it in sync. Functions such as link and image insertion are not reliable if the repo is out of sync.
 - For accurate content preview, you need to update your VS Code settings.json file, as described under **Preview Content** below.
-Examples below ([full list](http://docs.microsoft.com/en-us/locale.aspx))
+Examples below ([full list](http://docs.microsoft.com/en-us/locale.aspx)).
