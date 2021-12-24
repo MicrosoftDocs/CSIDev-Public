@@ -4,7 +4,7 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: "Xiangwei Cai"
+author: v-caxian
 ms.author: v-caxian
 manager: arthurya
 ms.date:  10/29/2016
