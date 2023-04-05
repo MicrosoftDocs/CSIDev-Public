@@ -4,8 +4,8 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: TinaLiuGirl
-ms.author: v-kaliu
+author: v-caxian
+ms.author: v-caxian
 manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
@@ -46,4 +46,4 @@ Sogup
 To effectively use the OPS Authoring extension, you must1:
 - Clone your entire repo to your local machine and keep it in sync. Functions such as link and image insertion are not reliable if the repo is out of sync.
 - For accurate content preview, you need to update your VS Code settings.json file, as described under **Preview Content** below.
-Examples below ([full list](http://docs.microsoft.com/en-us/locale.aspx))
+Examples below ([full list](http://docs.microsoft.com/en-us/locale.aspx)).
