@@ -4,7 +4,7 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: prmerger-dev-3
+author: meganbradley
 ms.author: mbradley
 manager: arthurya
 ms.date:  10/29/2016
