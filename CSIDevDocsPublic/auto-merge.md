@@ -7,7 +7,7 @@ title: "VS Code Authoring Extension"
 author: 
 ms.author: 
 manager: 
-ms.date:  10/29/2016
+ms.date:  
 ms.topic: article
 #ms.prod:
 #ms.service:
