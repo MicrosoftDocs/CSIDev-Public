@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: "VS Code Authoring Extension Introduction"
+title: "VS Code Authoring Extension"
 #description:
 #keywords:
 author: PRMergerTest2
@@ -26,7 +26,7 @@ ms.reviewer: martinof
 ---
 
 
-# VS Code Authoring Extension Introduction
+# VS Code Authoring Extension
 
 VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help to writers working in OPS and authoring for docs.microsoft.com. It includes several functions, including applying the default docs template to new Markdown files and generating a GUID, applying common formatting to strings, inserting links and images, and previewing content using your site's CSS.
 
