@@ -31,5 +31,5 @@ Introductory paragraph
 Include at least two H2s (not counting next steps section)
 
 ## Next steps
-A brief sentence with a links; blue box not required for the overview article
+A brief sentence with a link; blue box not required for the overview article
 

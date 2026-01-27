@@ -32,7 +32,7 @@ VS Code Markdown Authoring Extension for OPS is a poc to provide authoring help 
 
 line
 
-additional linerr
+additional line
 
 ## Installation steps
 
@@ -41,11 +41,11 @@ additional linerr
 2. Open VS Code and click the square icon on the left panel to open the Extensions menu.
 3. Click the three dots for "More" and select "Install from VSIX..."
 4. Navigate to the extension and select it.
-5. VS Code will install the extension and prompt you to restart 231331333f3.
+5. VS Code will install the extension and prompt you to restart.
 
 ## Prerequisites and assumptions
 
-To effectively use the OPS Authoring extension, you must11:
+To effectively use the OPS Authoring extension, you must:
 - Clone your entire repo to your local machine and keep it in sync. Functions such as link and image insertion are not reliable if the repo is out of sync.
 - For accurate content preview, you need to update your VS Code settings.json file, as described under **Preview Content** below.
 my updated file contentsmy updated file contentsmy updated file contents, more for auto testing...
