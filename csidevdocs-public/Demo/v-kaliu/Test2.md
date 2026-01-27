@@ -6,7 +6,7 @@ documentationcenter: na
 author: "PRMergerTest2"
 
 ms.assetid: 19694cb4-d9ed-499a-a2cc-bcfc4922d7f5
-ms.service: "azure-'re"sour"ce'-manager"
+ms.service: "azure-resource-manager"
 ms.devlang: na
 ms.topic: conceptual
 ms.tgt_pltfrm: na
